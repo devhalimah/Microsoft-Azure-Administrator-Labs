@@ -29,3 +29,6 @@ As the Azure Administrator for your organization, you're to automate the followi
   <li>The actual command used to create a new resource group. This command gets the values of the created variables and creates the new resource group.
   <pre>New-AzResourceGroup -Name $rgName -Location $location</pre></li>
 </p></ul>
+
+----------------------------------------------------------------------------------------------------------
+<h3>Step 3: Creating an Azure managed disk using Azure PowerShell</h3>
